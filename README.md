@@ -15,9 +15,10 @@
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Bot-discord"/>
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Gerador-de-senhas"/>
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Outros-Projectos-python"/>
+  
 </div>
 <div style="display: inline_block, text-align: center;" ><br>
-  <h1>Linguagens/Redes Sociais</h1>  
+  <h1>Linguagens que uso</h1>  
   <img align="center" alt="angelofran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="angelofran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="angelofran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,6 +26,10 @@
 </div>
 <hr> 
 <div> 
+<h1>Contactos</h1>  
   <a href="https://www.instagram.com/tatso_yuki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me/1015986402418229369" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nerdoriginal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h1>Cobrinha dos commits</h1>
+<img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
+</div>
