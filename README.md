@@ -31,5 +31,5 @@
  <a href="https://discord.com/channels/@me/1015986402418229369" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nerdoriginal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <h1>Cobrinha dos commits</h1>
-<img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
+<img align="center" src="https://github.com/angelofran/angelofran/blob/output/github-contribution-grid-snake.svg"/>
 </div>
