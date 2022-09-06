@@ -6,13 +6,18 @@
 - 😄 Pronouns: ele/dele
 
 <div align="center">
+  <h1>Sobre Programação</h1> 
   <a href="https://github.com/angelofran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelofran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofran&layout=compact&langs_count=7&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=github-readme-stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=convoychat" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelofran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofran&layout=compact&langs_count=7&theme=dark"/>
+  <h1>Destaques</h1>  
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=angelofran"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Bot-discord"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Gerador-de-senhas"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Outros-Projectos-python"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block, text-align: center;" ><br>
+  <h1>Linguagens/Redes Sociais</h1>  
   <img align="center" alt="angelofran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="angelofran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="angelofran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
