@@ -22,6 +22,16 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Python-fff?style=style=flat-square&logo=python&logoColor=green">
 <img src="https://img.shields.io/badge/MySql-white?style=style=flat-square&logo=mysql&logoColor=green">
+ 
+### Github acitivies
+<p align="left">
+  <a href="https://github.com/angelofran?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/angelofran"  width="90px"/></a>
+  <a href="https://github.com/angelofran?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/angelofran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" width="100px"/></a>
+  <a href="https://github.com/angelofran">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=angelofran&style=for-the-badge" width="100px" /></a>
+</p>
   
 ### Contactos  <img src="https://thumbs.gfycat.com/SingleInsecureAnhinga-max-1mb.gif" width="40px">
 <a href="https://www.instagram.com/tatso_yuki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
