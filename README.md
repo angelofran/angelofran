@@ -10,6 +10,7 @@
   <a href="https://github.com/angelofran">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelofran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofran&layout=compact&langs_count=7&theme=dark"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelofran&" alt="angelofran" /></p>
   <h1>Destaques</h1>  
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=angelofran"/>
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Bot-discord"/>
