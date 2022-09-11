@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F2F7A7&center=falso&vCenter=falso&width=435&lines=Ol%C3%A1%2C+eu+sou+o+%C3%82ngelo+%F0%9F%96%96;Olhe+o+meu+perfil+%F0%9F%98%8E%E2%9C%A8;J%C3%A1+olhou%3F+%F0%9F%91%80;O+que+achou%3F+bom%2C+n%C3%A9%3F!+%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F;Se+sim%2C+me+mande+um+mensagem+%F0%9F%93%A8)](https://git.io/typing-svg)
 
-- 🔭 Estudando o back-end
-- 🌱 Aprendendo Python
+- 🔭 Estudando o back-end, e o front-end
+- 🌱 Aprendendo Python, e Javascript
 - 💬 Fale comigo: nerdoriginal@gmail.com
 - 😄 Pronouns: ele/dele
 
