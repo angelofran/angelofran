@@ -14,7 +14,7 @@
 <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=angelofran"/>
 <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Bot-discord"/>
 <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Gerador-de-senhas"/>
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Outros-Projectos-python"/>
+<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=gerenciador-de-senhas-com-python"/>
   
 ### Linguagens e softwares <img src="https://gifimage.net/wp-content/uploads/2018/06/tecnologia-gif-animado.gif" width="40px">
 <img style = "margin-top: 10px;" align="right" width = "20%" src="https://media1.giphy.com/media/BnkbPIXYr0DTUBpOHF/giphy.gif?cid=6c09b952kgx0uuagghzw9fu7imalkttvx3q99s5bvv42f32m&rid=giphy.gif&ct=s">
