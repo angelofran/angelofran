@@ -34,11 +34,9 @@
 </p>
   
 ### Contacts  <img src="https://thumbs.gfycat.com/SingleInsecureAnhinga-max-1mb.gif" width="40px">
-<a href="https://www.instagram.com/tatso_yuki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://stackoverflow.com/users/19939910/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-ffa500F?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@me/1015986402418229369" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/angelofran_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:nerdoriginal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=+244935236675&text=&source=&data=&app_absent="><img src="https://img.shields.io/badge/-Whatsapp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=+244926422462?text=Oi, vim do github."><img src="https://img.shields.io/badge/-Whatsapp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 ### Snake of the commits 
 
 ![Snake animation](https://github.com/angelofran/angelofran/blob/output/github-contribution-grid-snake.svg)
