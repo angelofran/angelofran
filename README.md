@@ -35,8 +35,8 @@
   
 ### Contacts  <img src="https://thumbs.gfycat.com/SingleInsecureAnhinga-max-1mb.gif" width="40px">
 <a href="https://www.instagram.com/angelofran_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:nerdoriginal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=+244926422462?text=Oi, vim do github."><img src="https://img.shields.io/badge/-Whatsapp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:angelofrancisco08@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://wa.me/244926422462?text=Oi, vim do github."><img src="https://img.shields.io/badge/-Whatsapp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 ### Snake of the commits 
 
 ![Snake animation](https://github.com/angelofran/angelofran/blob/output/github-contribution-grid-snake.svg)
