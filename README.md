@@ -2,7 +2,7 @@
 
 - 🔭 Studying back and front-end
 - 🌱 learning Python, e Javascript
-- 💬 Talk to me: angelofrabcisco2008@gmail.com
+- 💬 Talk to me: angelofrancisco08@icloud.com
 - 😄 Pronouns: he/him
 
 ### My Stats             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
