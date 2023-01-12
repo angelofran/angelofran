@@ -7,14 +7,14 @@
 
 ### My Stats             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <a href="https://github.com/angelofran">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=angelofran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelofran&layout=compact&langs_count=7&theme=dark"/>
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=angelofran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=angelofran&layout=compact&langs_count=7&theme=dark"/>
   
 ### highlights<img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="30px">
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=angelofran"/>
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Bot-discord"/>
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=Gerador-de-senhas"/>
-<img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=angelofran&repo=gerenciador-de-senhas-com-python"/>
+<img align="center" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=angelofran&repo=angelofran"/>
+<img align="center" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=angelofran&repo=Bot-discord"/>
+<img align="center" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=angelofran&repo=Gerador-de-senhas"/>
+<img align="center" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=angelofran&repo=gerenciador-de-senhas-com-python"/>
   
 ### Languages and software <img src="https://gifimage.net/wp-content/uploads/2018/06/tecnologia-gif-animado.gif" width="40px">
 <img style = "margin-top: 10px;" align="right" width = "20%" src="https://media1.giphy.com/media/BnkbPIXYr0DTUBpOHF/giphy.gif?cid=6c09b952kgx0uuagghzw9fu7imalkttvx3q99s5bvv42f32m&rid=giphy.gif&ct=s">
