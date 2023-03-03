@@ -26,10 +26,7 @@
     <img align="center" height="30" width="40" alt="gim-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
     <img align="center" height="30" width="40" alt="jupyter-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
     <img align="center" height="30" width="40" alt="pycharm-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img align="center" height="30" width="40" alt="numpy-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img  align="center" height="30" width="40" alt="pytest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
     <img  align="center" height="30" width="40" alt="pandas-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    <img  align="center" height="30" width="40" alt="tensorflow-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img align="center" height="30" width="40" alt="bootstrap-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" height="30" width="40" alt="canva-icon"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />       
 </div>
